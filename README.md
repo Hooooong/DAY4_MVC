@@ -25,7 +25,7 @@
 
   2. MVC 흐름도
 
-        ![MVC 흐름도](https://github.com/Hooooong/DAY4_MVC/blob/master/image/MVC.PNG)
+      ![MVC 흐름도](https://github.com/Hooooong/DAY4_MVC/blob/master/image/MVC.PNG)
 
         1. 사용자가 요청을 하면, `Controller` 는 그 요청에 맞는 데이터를 `Model` 에 요청한다.
         2. `Model` 은 요청한 데이터를 `Controller`에 전달하고,
